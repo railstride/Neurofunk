@@ -1,0 +1,13 @@
+# Ignore everything
+*
+
+# But not these files
+!.gitignore
+!README.md
+!latest.json
+!*.dmg
+!*.msi
+!*.deb
+!*.AppImage
+!*.zip
+!*.tar.gz
