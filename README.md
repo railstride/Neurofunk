@@ -8,7 +8,8 @@ The creation of it is inspired by [Things3](https://culturedcode.com/things/) an
 
 ⚠️ The Project is a WIP, not well rounded yet and worked on during leisure.
 
-<img width="2804" height="1878" alt="image" src="https://github.com/user-attachments/assets/42a0ea80-469a-4c39-ad59-cb25b4fb5c63" />
+<img width="2804" height="1878" alt="image" src="https://github.com/user-attachments/assets/d881ec12-e71f-4b52-9250-fd3029ca3cf8" />
+
 
 ## Key Benefits
 
